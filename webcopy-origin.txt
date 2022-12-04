@@ -1,0 +1,364 @@
+Uri: https://archive.org/includes/analytics.js?v=cf34f82
+File Name: K:\fbookdsf.tumblr.com\includes\analytics.js
+Content Type: application/x-javascript
+
+Uri: https://archive.org/services/img/csmonitor.com
+File Name: K:\fbookdsf.tumblr.com\services\img\csmonitor.com
+Content Type: image/jpeg
+
+Uri: https://archive.org/services/img/focused_crawls
+File Name: K:\fbookdsf.tumblr.com\services\img\focused_crawls
+Content Type: image/jpeg
+
+Uri: https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98
+File Name: K:\fbookdsf.tumblr.com\assets\scripts\pre_tumblelog.js
+Content Type: application/javascript
+
+Uri: https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd
+File Name: K:\fbookdsf.tumblr.com\assets\scripts\tumblelog_post_message_queue.js
+Content Type: application/javascript
+
+Uri: https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=5aa1681cecf4df31e8ffd96f64605fcf
+File Name: K:\fbookdsf.tumblr.com\client\prod\standalone\blog-network-npf\index.build.css
+Content Type: text/css
+
+Uri: https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=26ab9405e121aac30eb3fc48a62a0f69
+File Name: K:\fbookdsf.tumblr.com\client\prod\standalone\tumblelog\index.build.js
+Content Type: application/javascript
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Black-webfont.eot?3%3F=&v=4d396676b5b7013e8062b0306fb6df25
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Black-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Black-webfont.eot?3=&v=4d396676b5b7013e8062b0306fb6df25
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Black-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Black-webfont.svg?3=&v=becfe0f2e977ae23541d14051460730e
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Black-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Black-webfont.ttf?3=&v=66795c1b09c6ecba8d96d158e5f25e4e
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Black-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Black-webfont.woff?3=&v=cfbfc0fbbd321fd3635b9d1fb3abd7da
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Black-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-BoldIt-webfont.eot?3%3F=&v=f685dc881c60c298ea22a73fe505b88a
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-BoldIt-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-BoldIt-webfont.eot?3=&v=f685dc881c60c298ea22a73fe505b88a
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-BoldIt-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-BoldIt-webfont.svg?3=&v=5b95c481dd7411c6e112143d6646bd9b
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-BoldIt-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-BoldIt-webfont.ttf?3=&v=5ace789439bff3b27f8d4112725531da
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-BoldIt-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-BoldIt-webfont.woff?3=&v=760a50f4d098e59aebaf0f0e58ae2cc8
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-BoldIt-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-It-webfont.eot?3%3F=&v=453599746440802fdf03799f74479ccc
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-It-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-It-webfont.eot?3=&v=453599746440802fdf03799f74479ccc
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-It-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-It-webfont.svg?3=&v=0299cc7f2f883c51b56ddfc1726b8dec
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-It-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-It-webfont.ttf?3=&v=da7067454d72bb032deeac7a7a6d0a63
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-It-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-It-webfont.woff?3=&v=405661ebc034bd72b7cb87624f0a2314
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-It-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Regular-webfont.eot?3%3F=&v=7c192d86344b943cd3e8d9123ed1dafa
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Regular-webfont.eot?3=&v=7c192d86344b943cd3e8d9123ed1dafa
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Regular-webfont.svg?3=&v=2ad0b09dbe56cc705930dbfeef247daa
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Regular-webfont.ttf?3=&v=cc6292d625d03dc65b9665f0cd27e2cd
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/calluna/Calluna-Regular-webfont.woff?3=&v=60172bcdc91d310108023e102eec8676
+File Name: K:\fbookdsf.tumblr.com\fonts\calluna\Calluna-Regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/fairwater/fairwater_script_regular-webfont.woff2?v=b7ab7a58cded3365889a447bfd9e9c45
+File Name: K:\fbookdsf.tumblr.com\fonts\fairwater\fairwater_script_regular-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets.tumblr.com/fonts/fairwater/fairwater_script_regular-webfont.woff?v=96e975b7468359e6f67086305577e43e
+File Name: K:\fbookdsf.tumblr.com\fonts\fairwater\fairwater_script_regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Italic-webfont.eot?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Italic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Italic-webfont.eot?3?
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Italic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Italic-webfont.svg?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Italic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Italic-webfont.ttf?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Italic-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Italic-webfont.woff?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Italic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Regular-webfont.eot?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Regular-webfont.eot?3?
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Regular-webfont.svg?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Regular-webfont.ttf?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-Regular-webfont.woff?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-Regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBold-webfont.eot?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBold-webfont.eot?3?
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBold-webfont.svg?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBold-webfont.ttf?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBold-webfont.woff?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBoldItalic-webfont.eot?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBoldItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBoldItalic-webfont.eot?3?
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBoldItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBoldItalic-webfont.svg?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBoldItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBoldItalic-webfont.ttf?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBoldItalic-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://assets.tumblr.com/fonts/gibson/Gibson-SemiBoldItalic-webfont.woff?3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\Gibson-SemiBoldItalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3
+File Name: K:\fbookdsf.tumblr.com\fonts\gibson\stylesheet.css
+Content Type: text/css
+
+Uri: https://assets.tumblr.com/fonts/sourcecodepro/sourcecodepro-regular-webfont.woff2?v=c2bb363563f7a15a4c0fe91cf951a67c
+File Name: K:\fbookdsf.tumblr.com\fonts\sourcecodepro\sourcecodepro-regular-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets.tumblr.com/fonts/sourcecodepro/sourcecodepro-regular-webfont.woff?v=c5fa36698a378c9c64711cec95efd69e
+File Name: K:\fbookdsf.tumblr.com\fonts\sourcecodepro\sourcecodepro-regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://fbookdsf.tumblr.com/
+File Name: K:\fbookdsf.tumblr.com\index.htm
+Content Type: text/html
+
+Uri: https://s0.wp.com/wp-content/js/bilmur.min.js?m=202248
+File Name: K:\fbookdsf.tumblr.com\wp-content\js\bilmur.min.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20120430215804im_/http://s.ytimg.com/yt/imgbin/www-guide-vflUBsyMZ.png
+File Name: K:\fbookdsf.tumblr.com\web\20120430215804im_\http\s.ytimg.com\yt\imgbin\www-guide-vflUBsyMZ.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120430231053im_/http://s.ytimg.com/yt/favicon-refresh-vfldLzJxy.ico
+File Name: K:\fbookdsf.tumblr.com\web\20120430231053im_\http\s.ytimg.com\yt\favicon-refresh-vfldLzJxy.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20120430231054cs_/http://s.ytimg.com/yt/cssbin/www-core-vfl3G5ozX.css
+File Name: K:\fbookdsf.tumblr.com\web\20120430231054cs_\http\s.ytimg.com\yt\cssbin\www-core-vfl3G5ozX.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20120430231056cs_/http://s.ytimg.com/yt/cssbin/www-guide-vflAzvOxi.css
+File Name: K:\fbookdsf.tumblr.com\web\20120430231056cs_\http\s.ytimg.com\yt\cssbin\www-guide-vflAzvOxi.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20120430231057im_/http://s.ytimg.com/yt/img/loader-vflff1Mjj.gif
+File Name: K:\fbookdsf.tumblr.com\web\20120430231057im_\http\s.ytimg.com\yt\img\loader-vflff1Mjj.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20120430231058js_/http://s.ytimg.com/yt/jsbin/www-core-vfl2dz97Y.js
+File Name: K:\fbookdsf.tumblr.com\web\20120430231058js_\http\s.ytimg.com\yt\jsbin\www-core-vfl2dz97Y.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20120430233745im_/http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+File Name: K:\fbookdsf.tumblr.com\web\20120430233745im_\http\s.ytimg.com\yt\img\pixel-vfl3z5WfW.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20120501002835im_/http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002835im_\http\s.ytimg.com\yt\imgbin\www-refreshbg-vflC3wnbM.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002836im_/http://s.ytimg.com/yt/img/icn_loading_animated_black-vflG-2N8G.gif
+File Name: K:\fbookdsf.tumblr.com\web\20120501002836im_\http\s.ytimg.com\yt\img\icn_loading_animated_black-vflG-2N8G.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20120501002838im_/http://s.ytimg.com/yt/img/addto_button_help-vfliAV_1S.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002838im_\http\s.ytimg.com\yt\img\addto_button_help-vfliAV_1S.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002839im_/http://s.ytimg.com/yt/img/close-vflxnTNTT.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002839im_\http\s.ytimg.com\yt\img\close-vflxnTNTT.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002840im_/http://s.ytimg.com/yt/imgbin/www-flags-vflI8RhBg.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002840im_\http\s.ytimg.com\yt\imgbin\www-flags-vflI8RhBg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002841im_/http://s.ytimg.com/yt/img/playlist_bar/heart-vfleakJiK.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002841im_\http\s.ytimg.com\yt\img\playlist_bar\heart-vfleakJiK.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002842im_/http://s.ytimg.com/yt/imgbin/www-sharing-vfl4Aszo7.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002842im_\http\s.ytimg.com\yt\imgbin\www-sharing-vfl4Aszo7.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002843im_/http://s.ytimg.com/yt/img/icn_loading_animated-vflff1Mjj.gif
+File Name: K:\fbookdsf.tumblr.com\web\20120501002843im_\http\s.ytimg.com\yt\img\icn_loading_animated-vflff1Mjj.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20120501002844im_/http://s.ytimg.com/yt/img/guide/checkmark-vflp4s9hS.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002844im_\http\s.ytimg.com\yt\img\guide\checkmark-vflp4s9hS.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002845im_/http://s.ytimg.com/yt/img/activity_indicator-vfl6QjGyi.gif
+File Name: K:\fbookdsf.tumblr.com\web\20120501002845im_\http\s.ytimg.com\yt\img\activity_indicator-vfl6QjGyi.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20120501002846im_/http://s.ytimg.com/yt/img/playlist_bar/thumb-vflIo5STb.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002846im_\http\s.ytimg.com\yt\img\playlist_bar\thumb-vflIo5STb.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002846im_/http://s.ytimg.com/yt/imgbin/www-watchrefresh-vflRhmaGr.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002846im_\http\s.ytimg.com\yt\imgbin\www-watchrefresh-vflRhmaGr.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002847im_/http://s.ytimg.com/yt/img/refresh/horizontal_rule-vflnwaP_x.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002847im_\http\s.ytimg.com\yt\img\refresh\horizontal_rule-vflnwaP_x.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002848im_/http://s.ytimg.com/yt/img/refresh/vertical_rule_ltr-vflkNhm_8.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002848im_\http\s.ytimg.com\yt\img\refresh\vertical_rule_ltr-vflkNhm_8.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002849im_/http://s.ytimg.com/yt/img/check-grn-circle-vflbAZWvU.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002849im_\http\s.ytimg.com\yt\img\check-grn-circle-vflbAZWvU.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002850im_/http://s.ytimg.com/yt/imgbin/www-dividers-vflkSTcwN.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002850im_\http\s.ytimg.com\yt\imgbin\www-dividers-vflkSTcwN.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002851im_/http://s.ytimg.com/yt/img/video_cluster_border-vflZPPosM.gif
+File Name: K:\fbookdsf.tumblr.com\web\20120501002851im_\http\s.ytimg.com\yt\img\video_cluster_border-vflZPPosM.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20120501002852im_/http://s.ytimg.com/yt/imgbin/www-lwbanner-vflDGOCAo.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002852im_\http\s.ytimg.com\yt\imgbin\www-lwbanner-vflDGOCAo.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002854im_/http://s.ytimg.com/yt/img/subscription_arrow-vflVeeo9t.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002854im_\http\s.ytimg.com\yt\img\subscription_arrow-vflVeeo9t.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002855im_/http://s.ytimg.com/yt/imgbin/www-refresh-vflk40U3E.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002855im_\http\s.ytimg.com\yt\imgbin\www-refresh-vflk40U3E.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002856im_/http://s.ytimg.com/yt/imgbin/www-medals-vfl0onnSj.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002856im_\http\s.ytimg.com\yt\imgbin\www-medals-vfl0onnSj.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002857im_/http://s.ytimg.com/yt/imgbin/www-master-vflIfm4lY.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002857im_\http\s.ytimg.com\yt\imgbin\www-master-vflIfm4lY.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002858im_/http://s.ytimg.com/yt/img/playlist_bar/clock-vflFv2NJv.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002858im_\http\s.ytimg.com\yt\img\playlist_bar\clock-vflFv2NJv.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002859im_/http://s.ytimg.com/yt/img/icons/lego-append-actions-vfltpl3wu.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002859im_\http\s.ytimg.com\yt\img\icons\lego-append-actions-vfltpl3wu.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002900im_/http://s.ytimg.com/yt/img/no_thumbnail-vfl4t3-4R.jpg
+File Name: K:\fbookdsf.tumblr.com\web\20120501002900im_\http\s.ytimg.com\yt\img\no_thumbnail-vfl4t3-4R.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20120501002901im_/http://s.ytimg.com/yt/img/drag_handle_wide-vfl7k4FC1.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002901im_\http\s.ytimg.com\yt\img\drag_handle_wide-vfl7k4FC1.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501002902im_/http://s.ytimg.com/yt/img/tiny_white_video_icon-vflkS3jA-.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501002902im_\http\s.ytimg.com\yt\img\tiny_white_video_icon-vflkS3jA-.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120501005736js_/http://s.ytimg.com/yt/jsbin/www-guide-vflFIYxrd.js
+File Name: K:\fbookdsf.tumblr.com\web\20120501005736js_\http\s.ytimg.com\yt\jsbin\www-guide-vflFIYxrd.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20120501011604im_/http://s.ytimg.com/yt/img/guide/checkmark_hovered-vflr04Evc.png
+File Name: K:\fbookdsf.tumblr.com\web\20120501011604im_\http\s.ytimg.com\yt\img\guide\checkmark_hovered-vflr04Evc.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20120503231533im_/http://i2.ytimg.com/vi/569LnGiIKaI/hqdefault.jpg
+File Name: K:\fbookdsf.tumblr.com\web\20120503231533im_\http\i2.ytimg.com\vi\569LnGiIKaI\hqdefault.jpg
+Content Type: image/jpeg
+
